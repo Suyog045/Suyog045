@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Suyog Avhad</h1>
 <h3 align="center">An IT Engineering Student who is passionate about Software and Web Development. Eager to tackle new challenges, explore diverse projects, and continuously learn and grow. Let's collaborate on exciting opportunities!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyog045&label=Profile%20views&color=0e75b6&style=flat" alt="suyog045" /> </p>
+
 
 - 📫 How to reach me **ssavhad021@gmail.com**
 
