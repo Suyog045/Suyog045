@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Suyog Avhad</h1>
-<h3 align="center">An IT Engineering Student who is passionate about Software and Web Development. Eager to tackle new challenges, explore diverse projects, and continuously learn and grow. Let's collaborate on exciting opportunities!</h3>
+<h3 align="center">An IT Engineer who is passionate about Software and Web Development. Eager to tackle new challenges, explore diverse projects, and continuously learn and grow. Let's collaborate on exciting opportunities!</h3>
 
 
 
